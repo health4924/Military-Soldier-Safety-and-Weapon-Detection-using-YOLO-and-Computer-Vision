@@ -1,0 +1,6 @@
+Class,Precision,Recall
+weapon,0.77593,0.62339
+military_truck,0.77593,0.62339
+military_vehicle,0.77593,0.62339
+military_artillery,0.77593,0.62339
+military_warship,0.0,0.0
